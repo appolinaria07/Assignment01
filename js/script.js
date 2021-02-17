@@ -14,5 +14,5 @@
 // let y = 5000;
 // window.console.log(x == y);
 // example of null literal expression
-let x = null;
-window.console.log(x);
+// let z = null;
+// window.console.log(z);
