@@ -7,12 +7,25 @@
 
 // STEP 2 
 // example of numeric literal expression
-// -468 
-// "This is an example of string data"
+// -468;
+// example of string literal expression 
+// "This is an example of string data";
 // example of Boolean literal expression
-// let x = 5000;
-// let y = 5000;
-// window.console.log(x == y);
+// true;
 // example of null literal expression
-// let z = null;
-// window.console.log(z);
+// null;
+
+// STEP 3, examples of complex/variable expressions
+// 1. let area = length1 * width1;
+// 2. let name = lastName + firstName; 
+
+// STEP 4
+// let strFirstName;       // First Name
+// let strLastName;        // Last Name
+// let strAddress;         // Address
+// let strCity;            // City
+// let strState;           // State
+// let nZipCode;           // Zip Code
+// let nYourAge;           // Your Age
+// let strRefferalSource;  //Referral Source 
+// let bMayWeContactYou;  // May We Contact You
